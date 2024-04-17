@@ -1,0 +1,14 @@
+{
+  "name": "electron-database-app",
+  "version": "1.0.0",
+  "description": "Electron database app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "MichuKPK",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^30.0.0"
+  }
+}
